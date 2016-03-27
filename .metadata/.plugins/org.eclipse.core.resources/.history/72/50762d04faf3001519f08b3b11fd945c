@@ -103,7 +103,7 @@ public class IoUtils {
             BufferedOutputStream out = new BufferedOutputStream(  
                     new FileOutputStream(filePath,true));  
             try {  
-                out.write(data);
+                out.write(data);  
             } finally {  
                 out.close();
             }  
