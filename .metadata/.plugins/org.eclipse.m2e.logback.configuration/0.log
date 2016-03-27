@@ -952,3 +952,26 @@ Caused by: org.eclipse.core.runtime.CoreException: One or more constraints have 
 2016-03-27 17:32:00,838 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
 2016-03-27 17:32:00,852 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
 2016-03-27 17:32:00,853 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspace\eclipse_space\github_Code\sspService\src\test\resources
+2016-03-28 06:51:12,968 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-28 06:51:12,996 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-03-28 06:51:13,007 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-28 06:51:13,008 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspace\eclipse_space\github_Code\sspService\src\test\resources
+2016-03-28 06:51:41,850 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-03-28 06:51:44,977 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: handbb-maven:sspService:0.0.1-SNAPSHOT @ D:\Workspace\eclipse_space\github_Code\sspService\pom.xml.
+2016-03-28 06:51:45,808 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:2.12.4: Plugin org.apache.maven.plugins:maven-surefire-plugin:2.12.4 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-surefire-plugin:jar:2.12.4
+2016-03-28 06:51:45,856 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:2.12.4: Plugin org.apache.maven.plugins:maven-surefire-plugin:2.12.4 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-surefire-plugin:jar:2.12.4
+2016-03-28 06:51:47,495 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sspService/src/main/java
+2016-03-28 06:51:47,495 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sspService/src/main/resources
+2016-03-28 06:51:47,496 [Worker-12] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sspService/src/test/java
+2016-03-28 06:51:48,623 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:2.12.4: Plugin org.apache.maven.plugins:maven-surefire-plugin:2.12.4 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-surefire-plugin:jar:2.12.4
+2016-03-28 06:51:48,630 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:2.12.4: Plugin org.apache.maven.plugins:maven-surefire-plugin:2.12.4 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-surefire-plugin:jar:2.12.4
+2016-03-28 06:51:49,582 [Worker-12] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for sspService
+2016-03-28 06:51:49,614 [Worker-12] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2016-03-28 06:51:51,735 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-28 06:51:51,738 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-03-28 06:51:51,779 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2016-03-28 06:51:51,780 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspace\eclipse_space\github_Code\sspService\src\test\resources
+2016-03-28 06:51:51,781 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of sspService
+2016-03-28 06:51:51,782 [Worker-0] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for sspService
+2016-03-28 06:51:51,789 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-surefire-plugin:jar:2.12.4 is missing, no dependency information available
+2016-03-28 06:51:51,820 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
