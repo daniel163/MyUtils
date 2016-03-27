@@ -2,7 +2,6 @@ package com.imooc.io;
 
 import java.io.File;
 import java.io.FileFilter;
-import java.io.FilenameFilter;
 
 public class FileDemo2 {
 
