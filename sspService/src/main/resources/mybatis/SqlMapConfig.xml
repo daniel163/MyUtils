@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	
+	<!-- 注册mapper配置文件 -->
+	<mappers><!-- _inf表示mapper代理开发模式 -->
+		<mapper resource="com/handbb/ssp/mapper/mapping/userMapper.xml" />
+	</mappers>
+
+</configuration>

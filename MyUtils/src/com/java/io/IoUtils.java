@@ -73,7 +73,7 @@ public class IoUtils {
      * @return			×Ö½ÚÊý×é
      */
     public static byte[] readBinaryToByte(String filePath) {
-        byte[] data = null;  
+        byte[] data = null;
         try {  
             BufferedInputStream in = new BufferedInputStream(
                     new FileInputStream(filePath));
