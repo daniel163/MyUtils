@@ -3,7 +3,7 @@ package com.java.io;
 
 public class IoTest_readArray {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		// TODO Auto-generated method stub
 		Integer length = IoUtils.writeObjectArray("F:\\a.txt",new Person[]{
 				new Person("zhangheng1", "ÄĞ", 29, "¹ã¶«ÉîÛÚ", "13670128472"),
