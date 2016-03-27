@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class IoTest {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		// TODO Auto-generated method stub
 		String info = IoUtils.readSrcFile("F:\\log_network.txt");
 		System.out.println(info);
