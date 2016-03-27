@@ -105,9 +105,9 @@ public class IoUtils {
             try {  
                 out.write(data);  
             } finally {  
-                out.close();
+                out.close();  
             }  
-        } catch (IOException e) { 
+        } catch (IOException e) {  
             e.printStackTrace();  
         }  
     }  
