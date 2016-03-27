@@ -15,7 +15,7 @@ import java.io.ObjectInputStream;
 public class IoUtils {
 	/***
 	 * 读取指定路径文本文件
-	 * @param filePath 文件路徑
+	 * @param filePath 文件路径
 	 * @return 文件信息
 	 */
     public static String readSrcFile(String filePath) {
@@ -36,7 +36,7 @@ public class IoUtils {
         }  
         return str.toString();  
     }
-    
+     
     
     /***
      * 写入指定的文本文件，append为true表示追加，false表示重头开始写，  
