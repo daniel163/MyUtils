@@ -25,7 +25,6 @@ public class IOUtil {
 				System.out.print("0");
 			}
 			System.out.print(Integer.toHexString(b)+"  ");
-			//每输出10个byte就换行
 			if(i++%10==0){
 				System.out.println();
 			}
