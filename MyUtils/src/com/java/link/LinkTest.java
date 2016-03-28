@@ -5,7 +5,7 @@ import java.util.Stack;
 
 public class LinkTest {
 	
-	public static void main(String[] args) { 
+	public static void main(String[] args){
         // TODO Auto-generated method stub
         LinkedList<Integer> ll=new LinkedList<Integer>();
         Stack<Integer> s=new Stack<Integer>();
