@@ -5,7 +5,7 @@ public class IoTest_readArray {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Integer length = IoUtils.writeObjectArray("D:\\a.txt",new Person[]{
+		Integer length = IoUtils.writeObjectArray("D:\\a.txt",new Person[]{ 
 				new Person("zhangheng1", "男", 29, "广东深圳", "13670128472"),
 				new Person("zhangheng2", "男", 29, "广东深圳", "13670128472"),
 				new Person("zhangheng3", "男", 29, "广东深圳", "13670128472"),
